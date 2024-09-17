@@ -38,7 +38,8 @@ EfficientNet achieved high F1-score of  95.72% and accuracy  of 94%
 
 
 
-![T](https://github.com/user-attachments/assets/dde1d8cf-41fb-4af0-82c1-7cdeb2f010e9)
+![TT](https://github.com/user-attachments/assets/31b178ac-c89b-4747-8da6-cf392940b52b)
+
 
 
 
